@@ -1,0 +1,24 @@
+.h com estruturas:
+	- guardar todos os processos (incluindo as dependencias, pipes, e se ja esta em execuçao ou nao)
+	- guardar todos os ficheiros ainda por terminar (tabela de hash)
+
+- gestor em background
+
+- modulo parsing
+
+- modulo submeter
+
+/***********************
+
+while(n) {
+	n = read(...);
+	if (n == 0)
+		EOF > read terminou com sinal
+	else if (n > 0)
+		ler comando
+
+	verificar_se_ha_comandos();
+}
+
+/***********************
+

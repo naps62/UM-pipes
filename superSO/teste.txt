@@ -1,0 +1,10 @@
+coisas.txt
+defs.h
+gestor
+gestor.c
+gestor.o
+linked_list.c
+linked_list.h
+linked_list.o
+Makefile
+strtok.c
